@@ -19,7 +19,11 @@
  
  */
 // Answer question 3 below
-
+var valueOfDimes = 0.10
+var dimeCount = Int()
+var valueOfQuarters = 0.25
+var quarterCount = Int()
+var totalValueOfCoins = Double()
 /*:
  ## Now share your understanding
  
