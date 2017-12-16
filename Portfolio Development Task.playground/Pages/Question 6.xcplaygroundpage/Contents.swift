@@ -17,7 +17,19 @@
  
  */
 // Answer question 6 below
-
+let targetDistance = Double()
+var currentDistance = Double()
+if currentDistance >= 0 && currentDistance <= 9{
+    print("Great start, keep it up!")
+}else if currentDistance > 45 && currentDistance < 50{
+    print("You're almost at halfway!")
+}else if currentDistance == 50 {
+    print("You're almost at halfway!")
+}else if currentDistance > 90  && currentDistance < 99{
+    print("Nearly done!")
+}else if currentDistance == 100{
+    print("GREAT JOB!")
+}
 
 /*:
  ## Now share your understanding
