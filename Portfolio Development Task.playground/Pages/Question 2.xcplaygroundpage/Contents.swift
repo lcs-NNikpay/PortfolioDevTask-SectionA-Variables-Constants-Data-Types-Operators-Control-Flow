@@ -17,7 +17,9 @@
  
  */
 // Answer question 2 below
-
+let nameOfTheAlbum = String()
+var copiesSold = Int()
+var suggestedSellingPrice = Double()
 /*:
  ## Now share your understanding
  
